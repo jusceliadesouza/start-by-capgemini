@@ -11,4 +11,4 @@
 7. [x] [Conversão de temperaturas](singles/)
 8. [x] [Conversão de moedas](singles/ConverteMoeda.java)
 9. [x] [Rendimentos](singles/Rendimentos.java)
-10. [ ] [Valor das Prestações](singles/)
+10. [x] [Valor das Prestações](singles/)
