@@ -8,7 +8,7 @@
 4. [x] [Comissão](singles/Comiss%C3%A3o.java)
 5. [x] [Media Aritmética](singles/MediaAritmetica.java)
 6. [x] [Troca de Valores](singles/TrocaValor.java)
-7. [ ] [Conversão de temperaturas](singles/)
+7. [x] [Conversão de temperaturas](singles/)
 8. [ ] [Conversão de moedas](singles/)
 9. [ ] [Rendimentos](singles/)
 10. [ ] [Valor das Prestações](singles/)
