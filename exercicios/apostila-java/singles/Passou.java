@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MediaAritmetica {
+public class Passou {
   public static void main(String[] args) {
     Scanner ler = new Scanner(System.in);
 
@@ -14,6 +14,13 @@ public class MediaAritmetica {
       media += ler.nextFloat();
     }
 
-    System.out.printf("%s %.2f", aluno, Math.round(media / 3));
+    media /= 3;
+
+    if (media >= 7)
+      System.out.printf("%s [APROVADO]", aluno);
+    else if (media <= 5)
+      System.out.printf("%s [REPROVADO]", aluno);
+    else
+      System.out.printf("%s [RECUPERAÇÃO]", aluno);
   }
 }
