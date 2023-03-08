@@ -20,5 +20,6 @@ public class Operacoes {
     System.out.printf("%d*%d: %d\n", number1, number2, number1 * number2);
     System.out.printf("%d/%d: %d\n", number1, number2, number1 / number2);
 
+    ler.close();
   }
 }

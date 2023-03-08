@@ -11,5 +11,7 @@ public class ValorVenda {
     float percent = ler.nextFloat();
 
     System.out.printf("Valor de venda: %.2f", custoProduto + (custoProduto * percent) / 100);
+
+    ler.close();
   }
 }

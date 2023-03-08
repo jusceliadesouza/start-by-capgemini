@@ -34,5 +34,7 @@ public class QuantidadeHomensMulheres {
 
     System.out.printf("%d homens\n", qntHomens);
     System.out.printf("%d mulheres", qntMulheres);
+
+    ler.close();
   }
 }

@@ -47,5 +47,7 @@ public class DescontoCarangoVelho {
 
     System.out.printf("Carros até ano 2000: %d\n", totalParcial);
     System.out.printf("Total Geral: %d", totalGeral);
+
+    ler.close();
   }
 }

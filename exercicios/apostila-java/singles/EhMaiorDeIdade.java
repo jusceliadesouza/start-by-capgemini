@@ -16,5 +16,7 @@ public class EhMaiorDeIdade {
       else
         System.out.println("Menor de idade");
     }
+
+    ler.close();
   }
 }

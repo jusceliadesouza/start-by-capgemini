@@ -10,5 +10,7 @@ public class Rendimentos {
     double juroFixo = 0.07;
 
     System.out.printf("Rendimentos: R$ %.2f", deposito * juroFixo);
+
+    ler.close();
   }
 }

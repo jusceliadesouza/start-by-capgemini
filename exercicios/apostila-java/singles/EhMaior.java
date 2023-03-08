@@ -11,5 +11,7 @@ public class EhMaior {
       System.out.printf("%d é maior que 10!", number);
     else
       System.out.printf("%d é menor que 10!", number);
+
+    ler.close();
   }
 }

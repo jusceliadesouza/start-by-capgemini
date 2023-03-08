@@ -14,5 +14,7 @@ public class QualEhMaior {
       System.out.printf("%d > %d!", number1, number2);
     else
       System.out.printf("%d é %d!", number2, number1);
+
+    ler.close();
   }
 }

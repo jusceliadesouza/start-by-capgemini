@@ -21,5 +21,7 @@ public class Intervalo {
       System.out.printf("%d não está no intervalo!", number);
     else
       System.out.printf("%d está no intervalo!", number);
+
+    ler.close();
   }
 }

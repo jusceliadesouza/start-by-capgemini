@@ -15,5 +15,7 @@ public class MediaAritmetica {
     }
 
     System.out.printf("%s %.2f", aluno, Math.round(media / 3));
+
+    ler.close();
   }
 }

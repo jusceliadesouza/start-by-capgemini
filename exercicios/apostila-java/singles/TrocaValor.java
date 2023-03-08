@@ -15,5 +15,7 @@ public class TrocaValor {
     b = aux;
 
     System.out.printf("A: %d B: %d", a, b);
+
+    ler.close();
   }
 }

@@ -8,6 +8,8 @@ public class ConverteTemperatura {
     float celsius = ler.nextFloat();
 
     System.out.printf("F = %.2f", (9 * celsius + 160) / 5);
+
+    ler.close();
   }
 
 }

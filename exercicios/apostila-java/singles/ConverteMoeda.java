@@ -11,5 +11,6 @@ public class ConverteMoeda {
     float valorDolar = ler.nextFloat();
 
     System.out.printf("CONVERSÃO DE MOEDAS\nUS$ %.2f - R$ %.2f", valorDolar, valorDolar * cotacao);
+    ler.close();
   }
 }

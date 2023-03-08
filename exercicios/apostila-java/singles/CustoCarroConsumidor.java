@@ -11,5 +11,7 @@ public class CustoCarroConsumidor {
     float distribuidor = ((custo + impostos) * 28) / 100;
 
     System.out.printf("Custo ao consumidor: R$ %.2f", custo + distribuidor);
+
+    ler.close();
   }
 }

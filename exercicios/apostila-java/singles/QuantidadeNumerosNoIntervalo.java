@@ -16,5 +16,7 @@ public class QuantidadeNumerosNoIntervalo {
     }
 
     System.out.printf("Há %d números no intervalo!", soma);
+
+    ler.close();
   }
 }

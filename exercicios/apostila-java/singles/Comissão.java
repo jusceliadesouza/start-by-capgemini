@@ -18,5 +18,7 @@ public class Comissão {
     float salario = salarioFixo + ((vendas * comissao) / 100);
 
     System.out.printf("Vendedor: %s \nSalário Fixo: R$ %.2f\nSalário: R$ %.2f", vendedor, salarioFixo, salario);
+
+    ler.close();
   }
 }

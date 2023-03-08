@@ -22,5 +22,7 @@ public class Passou {
       System.out.printf("%s [REPROVADO]", aluno);
     else
       System.out.printf("%s [RECUPERAÇÃO]", aluno);
+
+    ler.close();
   }
 }

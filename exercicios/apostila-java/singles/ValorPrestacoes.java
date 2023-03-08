@@ -8,5 +8,7 @@ public class ValorPrestacoes {
     float valor = ler.nextFloat();
 
     System.out.printf("Prestação: 5x R$ %.2f", valor / 5);
+
+    ler.close();
   }
 }

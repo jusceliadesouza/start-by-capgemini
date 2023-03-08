@@ -17,5 +17,7 @@ public class ConsumoMedio {
     float gasto = ler.nextFloat();
 
     System.out.printf("Consumo médio de %.2f Km/l", distancia / gasto);
+
+    ler.close();
   }
 }
