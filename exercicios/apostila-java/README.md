@@ -9,6 +9,6 @@
 5. [x] [Media Aritmética](singles/MediaAritmetica.java)
 6. [x] [Troca de Valores](singles/TrocaValor.java)
 7. [x] [Conversão de temperaturas](singles/)
-8. [ ] [Conversão de moedas](singles/)
+8. [x] [Conversão de moedas](singles/)
 9. [ ] [Rendimentos](singles/)
 10. [ ] [Valor das Prestações](singles/)
