@@ -12,7 +12,6 @@ public class ServicoMilitar {
     String nome;
     char sexo = ' ';
     int idade = 0, saude = 0;
-    int totalM = 0, totalF = 0;
     int totalAptos = 0, totalInaptos = 0;
 
     boolean valido = false;
@@ -69,10 +68,8 @@ public class ServicoMilitar {
 
       if (sexo == 'M') {
         System.out.printf("Masculino ");
-        totalM++;
       } else {
         System.out.printf("Feminino ");
-        totalF++;
       }
 
       System.out.printf("%d anos ", idade);
@@ -105,5 +102,7 @@ public class ServicoMilitar {
     System.out.printf("\n=========== RESULTADO FINAL ===========\n");
     System.out.printf("Aptos: %d\n", totalAptos);
     System.out.printf("Inaptos: %d\n", totalInaptos);
+
+    ler.close();
   }
 }

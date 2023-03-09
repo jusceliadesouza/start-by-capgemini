@@ -22,7 +22,7 @@
 18. [x] [Maior ou menor de idade?](singles/EhMaiorDeIdade.java)
 19. [x] [Quantidade de homens e mulheres](singles/QuantidadeHomensMulheres.java)
 20. [x] [Desconto no Carango Velho](singles/DescontoCarangoVelho.java)
-21. [x] [Serviço Militar](singles/)
+21. [x] [Serviço Militar](singles/ServicoMilitar.java)
 22. [ ] [Cálculo de Venda de Produtos](singles/)
 23. [ ] [Maior, Menor, ou Igual?](singles/)
 24. [ ] [Positivo, Negativo ou Zero?](singles/)

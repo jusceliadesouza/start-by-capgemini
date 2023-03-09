@@ -66,5 +66,7 @@ public class QualEhOMes {
           break;
       }
     } while (!valido);
+
+    ler.close();
   }
 }

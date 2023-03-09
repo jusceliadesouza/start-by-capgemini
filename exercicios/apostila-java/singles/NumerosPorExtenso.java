@@ -42,5 +42,6 @@ public class NumerosPorExtenso {
           break;
       }
     }
+    ler.close();
   }
 }
